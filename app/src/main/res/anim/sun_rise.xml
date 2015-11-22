@@ -22,7 +22,7 @@
         android:repeatCount="infinite"
         android:repeatMode="reverse"
         android:fromYDelta="100%p"
-        android:toYDelta="10%p" />
+        android:toYDelta="-45%p" />
 
     <alpha
         android:repeatCount="infinite"
