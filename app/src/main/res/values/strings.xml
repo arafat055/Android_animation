@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_animation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="Sun">Sun</string>
+    <string name="grass">Grass</string>
+    <string name="sky">Sky</string>
+    <string name="clock">Clock</string>
+    <string name="hour">Hour Hand</string>
+
+</resources>
